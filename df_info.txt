@@ -1,0 +1,11 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 7956 entries, 0 to 7955
+Data columns (total 4 columns):
+ #   Column                        Non-Null Count  Dtype  
+---  ------                        --------------  -----  
+ 0   Entity                        7956 non-null   object 
+ 1   Code                          6447 non-null   object 
+ 2   Year                          7956 non-null   int64  
+ 3   Electricity from solar (TWh)  7956 non-null   float64
+dtypes: float64(1), int64(1), object(2)
+memory usage: 248.8+ KB
